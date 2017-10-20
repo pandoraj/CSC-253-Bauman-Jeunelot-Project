@@ -1,0 +1,35 @@
+Merman Guard
+An armored merman bearing a trident.
+15
+30
+15
+3
+Heavy
+Undead Pirate
+A bleached white skeleton of a pirate clad in rags.
+7
+25
+0
+6
+None
+Electric Eel
+A large eel crackling with electricity.
+10
+25
+0
+8
+None
+Savage Sharkman
+A muscled giant with the head of a shark.
+20
+40
+5
+5
+Light
+Sea Banshee
+A wispy ghost of a woman with long tangled hair.
+13
+50
+0
+7
+None

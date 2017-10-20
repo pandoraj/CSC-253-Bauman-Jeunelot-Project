@@ -1,0 +1,12 @@
+Lost Pirate's Gold
+A worn chest of gleaming gold dubloons.
+100
+Rare
+Sea Warrior's Armor
+A set of elaborate armor studded in jewels and precious metals.
+150
+Extra Rare
+Waterlogged Chest
+An incredibly beaten up old chest that remains locked tight.
+1
+Rare

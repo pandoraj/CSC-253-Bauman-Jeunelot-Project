@@ -1,0 +1,14 @@
+Mermaid's Blessing
+A vial filled with a glowing pink concoction that restores 20 health.
+Player
+Health Restoration
+10
+Common
+1
+Sea Witch's Kiss
+A vial of purple fizzing liquid that slowly poisons an enemy.
+Enemy
+Poison
+20
+Uncommon
+3

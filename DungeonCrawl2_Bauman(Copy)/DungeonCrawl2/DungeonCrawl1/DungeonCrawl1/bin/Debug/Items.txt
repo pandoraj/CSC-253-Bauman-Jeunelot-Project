@@ -1,0 +1,24 @@
+Rusty Key
+A heavy iron key coated in a thick layer of rust.
+0
+Rare
+None
+true
+Sea Dragon's Scale
+An iridescent scale the size of your palm.
+30
+Very Rare
+Attack Boost
+false
+Tidal Opal
+A small round opal with a charming sheen.
+25
+Rare
+Magic Boost
+true
+Coral Flute
+A delicate instrument carved out of coral.
+30
+Very Rare
+Summon
+false

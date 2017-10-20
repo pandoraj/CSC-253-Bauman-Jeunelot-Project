@@ -1,0 +1,28 @@
+Rusty Pirate's Cutlass
+A dull cutlass discarded by a pirate in years past.
+5
+1
+3
+Iron
+Very common
+Tidal Trident
+A shimmering trident used by guards of the royal castle.
+15
+10
+4
+Steel
+Uncommon
+Shark Tooth Dagger
+A jagged dagger made from an unusually large shark's tooth.
+10
+5
+1
+Tooth
+Common
+Electric Eel Wristlets
+Gold enameled bracelets fashioned in the shape of intertwining eels.
+15
+12
+1
+Gold
+Uncommon

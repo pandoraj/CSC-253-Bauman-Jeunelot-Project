@@ -1,0 +1,106 @@
+c:\users\jeunelop4718\documents\visual studio 2015\Projects\DungeonCrawl1\DungeonCrawl1\bin\Debug\DungeonCrawl1.exe.config
+c:\users\jeunelop4718\documents\visual studio 2015\Projects\DungeonCrawl1\DungeonCrawl1\bin\Debug\DungeonCrawl1.exe
+c:\users\jeunelop4718\documents\visual studio 2015\Projects\DungeonCrawl1\DungeonCrawl1\bin\Debug\DungeonCrawl1.pdb
+c:\users\jeunelop4718\documents\visual studio 2015\Projects\DungeonCrawl1\DungeonCrawl1\obj\Debug\DungeonCrawl1.csprojResolveAssemblyReference.cache
+c:\users\jeunelop4718\documents\visual studio 2015\Projects\DungeonCrawl1\DungeonCrawl1\obj\Debug\DungeonCrawl1.coralCastleForm.resources
+c:\users\jeunelop4718\documents\visual studio 2015\Projects\DungeonCrawl1\DungeonCrawl1\obj\Debug\DungeonCrawl1.Properties.Resources.resources
+c:\users\jeunelop4718\documents\visual studio 2015\Projects\DungeonCrawl1\DungeonCrawl1\obj\Debug\DungeonCrawl1.csproj.GenerateResource.Cache
+c:\users\jeunelop4718\documents\visual studio 2015\Projects\DungeonCrawl1\DungeonCrawl1\obj\Debug\DungeonCrawl1.exe
+c:\users\jeunelop4718\documents\visual studio 2015\Projects\DungeonCrawl1\DungeonCrawl1\obj\Debug\DungeonCrawl1.pdb
+E:\CSC 253\DungeonCrawl1\DungeonCrawl1\DungeonCrawl1\bin\Debug\DungeonCrawl1.exe.config
+E:\CSC 253\DungeonCrawl1\DungeonCrawl1\DungeonCrawl1\obj\Debug\DungeonCrawl1.exe
+E:\CSC 253\DungeonCrawl1\DungeonCrawl1\DungeonCrawl1\obj\Debug\DungeonCrawl1.pdb
+E:\CSC 253\DungeonCrawl1\DungeonCrawl1\DungeonCrawl1\bin\Debug\DungeonCrawl1.exe
+E:\CSC 253\DungeonCrawl1\DungeonCrawl1\DungeonCrawl1\bin\Debug\DungeonCrawl1.pdb
+E:\CSC 253\DungeonCrawl1\DungeonCrawl1\DungeonCrawl1\obj\Debug\DungeonCrawl1.csprojResolveAssemblyReference.cache
+E:\CSC 253\DungeonCrawl1\DungeonCrawl1\DungeonCrawl1\obj\Debug\DungeonCrawl1.coralCastleForm.resources
+E:\CSC 253\DungeonCrawl1\DungeonCrawl1\DungeonCrawl1\obj\Debug\DungeonCrawl1.Properties.Resources.resources
+E:\CSC 253\DungeonCrawl1\DungeonCrawl1\DungeonCrawl1\obj\Debug\DungeonCrawl1.csproj.GenerateResource.Cache
+C:\Users\jeunelop4718\Documents\DungeonCrawl1\DungeonCrawl1\DungeonCrawl1\DungeonCrawl1\bin\Debug\DungeonCrawl1.exe.config
+C:\Users\jeunelop4718\Documents\DungeonCrawl1\DungeonCrawl1\DungeonCrawl1\DungeonCrawl1\obj\Debug\DungeonCrawl1.exe
+C:\Users\jeunelop4718\Documents\DungeonCrawl1\DungeonCrawl1\DungeonCrawl1\DungeonCrawl1\obj\Debug\DungeonCrawl1.pdb
+C:\Users\jeunelop4718\Documents\DungeonCrawl1\DungeonCrawl1\DungeonCrawl1\DungeonCrawl1\bin\Debug\DungeonCrawl1.exe
+C:\Users\jeunelop4718\Documents\DungeonCrawl1\DungeonCrawl1\DungeonCrawl1\DungeonCrawl1\bin\Debug\DungeonCrawl1.pdb
+C:\Users\jeunelop4718\Documents\DungeonCrawl1\DungeonCrawl1\DungeonCrawl1\DungeonCrawl1\obj\Debug\DungeonCrawl1.csprojResolveAssemblyReference.cache
+C:\Users\jeunelop4718\Documents\DungeonCrawl1\DungeonCrawl1\DungeonCrawl1\DungeonCrawl1\obj\Debug\DungeonCrawl1.coralCastleForm.resources
+C:\Users\jeunelop4718\Documents\DungeonCrawl1\DungeonCrawl1\DungeonCrawl1\DungeonCrawl1\obj\Debug\DungeonCrawl1.Properties.Resources.resources
+C:\Users\jeunelop4718\Documents\DungeonCrawl1\DungeonCrawl1\DungeonCrawl1\DungeonCrawl1\obj\Debug\DungeonCrawl1.csproj.GenerateResource.Cache
+E:\CSC 253\DungeonCrawl1\DungeonCrawl1\DungeonCrawl1\DungeonCrawl1\DungeonCrawl1\bin\Debug\DungeonCrawl1.exe.config
+E:\CSC 253\DungeonCrawl1\DungeonCrawl1\DungeonCrawl1\DungeonCrawl1\DungeonCrawl1\obj\Debug\DungeonCrawl1.exe
+E:\CSC 253\DungeonCrawl1\DungeonCrawl1\DungeonCrawl1\DungeonCrawl1\DungeonCrawl1\obj\Debug\DungeonCrawl1.pdb
+E:\CSC 253\DungeonCrawl1\DungeonCrawl1\DungeonCrawl1\DungeonCrawl1\DungeonCrawl1\bin\Debug\DungeonCrawl1.exe
+E:\CSC 253\DungeonCrawl1\DungeonCrawl1\DungeonCrawl1\DungeonCrawl1\DungeonCrawl1\bin\Debug\DungeonCrawl1.pdb
+E:\CSC 253\DungeonCrawl1\DungeonCrawl1\DungeonCrawl1\DungeonCrawl1\DungeonCrawl1\obj\Debug\DungeonCrawl1.csprojResolveAssemblyReference.cache
+E:\CSC 253\DungeonCrawl1\DungeonCrawl1\DungeonCrawl1\DungeonCrawl1\DungeonCrawl1\obj\Debug\DungeonCrawl1.coralCastleForm.resources
+E:\CSC 253\DungeonCrawl1\DungeonCrawl1\DungeonCrawl1\DungeonCrawl1\DungeonCrawl1\obj\Debug\DungeonCrawl1.Properties.Resources.resources
+E:\CSC 253\DungeonCrawl1\DungeonCrawl1\DungeonCrawl1\DungeonCrawl1\DungeonCrawl1\obj\Debug\DungeonCrawl1.csproj.GenerateResource.Cache
+C:\Users\jeunelop4718\Documents\DungeonCrawl1 (2)\DungeonCrawl1\DungeonCrawl1\DungeonCrawl1\DungeonCrawl1\DungeonCrawl1\bin\Debug\DungeonCrawl1.exe.config
+C:\Users\jeunelop4718\Documents\DungeonCrawl1 (2)\DungeonCrawl1\DungeonCrawl1\DungeonCrawl1\DungeonCrawl1\DungeonCrawl1\obj\Debug\DungeonCrawl1.exe
+C:\Users\jeunelop4718\Documents\DungeonCrawl1 (2)\DungeonCrawl1\DungeonCrawl1\DungeonCrawl1\DungeonCrawl1\DungeonCrawl1\obj\Debug\DungeonCrawl1.pdb
+C:\Users\jeunelop4718\Documents\DungeonCrawl1 (2)\DungeonCrawl1\DungeonCrawl1\DungeonCrawl1\DungeonCrawl1\DungeonCrawl1\bin\Debug\DungeonCrawl1.exe
+C:\Users\jeunelop4718\Documents\DungeonCrawl1 (2)\DungeonCrawl1\DungeonCrawl1\DungeonCrawl1\DungeonCrawl1\DungeonCrawl1\bin\Debug\DungeonCrawl1.pdb
+C:\Users\jeunelop4718\Documents\DungeonCrawl1 (2)\DungeonCrawl1\DungeonCrawl1\DungeonCrawl1\DungeonCrawl1\DungeonCrawl1\obj\Debug\DungeonCrawl1.csprojResolveAssemblyReference.cache
+C:\Users\jeunelop4718\Documents\DungeonCrawl1 (2)\DungeonCrawl1\DungeonCrawl1\DungeonCrawl1\DungeonCrawl1\DungeonCrawl1\obj\Debug\DungeonCrawl1.coralCastleForm.resources
+C:\Users\jeunelop4718\Documents\DungeonCrawl1 (2)\DungeonCrawl1\DungeonCrawl1\DungeonCrawl1\DungeonCrawl1\DungeonCrawl1\obj\Debug\DungeonCrawl1.Properties.Resources.resources
+C:\Users\jeunelop4718\Documents\DungeonCrawl1 (2)\DungeonCrawl1\DungeonCrawl1\DungeonCrawl1\DungeonCrawl1\DungeonCrawl1\obj\Debug\DungeonCrawl1.csproj.GenerateResource.Cache
+C:\Users\jeunelop4718\Documents\DungeonCrawl2\DungeonCrawl1\DungeonCrawl1\bin\Debug\DungeonCrawl1.exe.config
+C:\Users\jeunelop4718\Documents\DungeonCrawl2\DungeonCrawl1\DungeonCrawl1\obj\Debug\DungeonCrawl1.exe
+C:\Users\jeunelop4718\Documents\DungeonCrawl2\DungeonCrawl1\DungeonCrawl1\obj\Debug\DungeonCrawl1.pdb
+C:\Users\jeunelop4718\Documents\DungeonCrawl2\DungeonCrawl1\DungeonCrawl1\bin\Debug\DungeonCrawl1.exe
+C:\Users\jeunelop4718\Documents\DungeonCrawl2\DungeonCrawl1\DungeonCrawl1\bin\Debug\DungeonCrawl1.pdb
+C:\Users\jeunelop4718\Documents\DungeonCrawl2\DungeonCrawl1\DungeonCrawl1\obj\Debug\DungeonCrawl1.csprojResolveAssemblyReference.cache
+C:\Users\jeunelop4718\Documents\DungeonCrawl2\DungeonCrawl1\DungeonCrawl1\obj\Debug\DungeonCrawl1.coralCastleForm.resources
+C:\Users\jeunelop4718\Documents\DungeonCrawl2\DungeonCrawl1\DungeonCrawl1\obj\Debug\DungeonCrawl1.Properties.Resources.resources
+C:\Users\jeunelop4718\Documents\DungeonCrawl2\DungeonCrawl1\DungeonCrawl1\obj\Debug\DungeonCrawl1.csproj.GenerateResource.Cache
+C:\Users\jeunelop4718\Documents\DungeonCrawl2\DungeonCrawl2\DungeonCrawl1\DungeonCrawl1\bin\Debug\DungeonCrawl1.exe.config
+C:\Users\jeunelop4718\Documents\DungeonCrawl2\DungeonCrawl2\DungeonCrawl1\DungeonCrawl1\obj\Debug\DungeonCrawl1.exe
+C:\Users\jeunelop4718\Documents\DungeonCrawl2\DungeonCrawl2\DungeonCrawl1\DungeonCrawl1\obj\Debug\DungeonCrawl1.pdb
+C:\Users\jeunelop4718\Documents\DungeonCrawl2\DungeonCrawl2\DungeonCrawl1\DungeonCrawl1\bin\Debug\DungeonCrawl1.exe
+C:\Users\jeunelop4718\Documents\DungeonCrawl2\DungeonCrawl2\DungeonCrawl1\DungeonCrawl1\bin\Debug\DungeonCrawl1.pdb
+C:\Users\jeunelop4718\Documents\DungeonCrawl2\DungeonCrawl2\DungeonCrawl1\DungeonCrawl1\obj\Debug\DungeonCrawl1.csprojResolveAssemblyReference.cache
+C:\Users\jeunelop4718\Documents\DungeonCrawl2\DungeonCrawl2\DungeonCrawl1\DungeonCrawl1\obj\Debug\DungeonCrawl1.coralCastleForm.resources
+C:\Users\jeunelop4718\Documents\DungeonCrawl2\DungeonCrawl2\DungeonCrawl1\DungeonCrawl1\obj\Debug\DungeonCrawl1.Properties.Resources.resources
+C:\Users\jeunelop4718\Documents\DungeonCrawl2\DungeonCrawl2\DungeonCrawl1\DungeonCrawl1\obj\Debug\DungeonCrawl1.csproj.GenerateResource.Cache
+C:\Users\TaoTao' RGB FunHouse\Documents\Pandora School Work\DungeonCrawl2\DungeonCrawl1\DungeonCrawl1\bin\Debug\DungeonCrawl1.exe.config
+C:\Users\TaoTao' RGB FunHouse\Documents\Pandora School Work\DungeonCrawl2\DungeonCrawl1\DungeonCrawl1\bin\Debug\DungeonCrawl1.exe
+C:\Users\TaoTao' RGB FunHouse\Documents\Pandora School Work\DungeonCrawl2\DungeonCrawl1\DungeonCrawl1\bin\Debug\DungeonCrawl1.pdb
+C:\Users\TaoTao' RGB FunHouse\Documents\Pandora School Work\DungeonCrawl2\DungeonCrawl1\DungeonCrawl1\obj\Debug\DungeonCrawl1.csprojResolveAssemblyReference.cache
+C:\Users\TaoTao' RGB FunHouse\Documents\Pandora School Work\DungeonCrawl2\DungeonCrawl1\DungeonCrawl1\obj\Debug\DungeonCrawl1.coralCastleForm.resources
+C:\Users\TaoTao' RGB FunHouse\Documents\Pandora School Work\DungeonCrawl2\DungeonCrawl1\DungeonCrawl1\obj\Debug\DungeonCrawl1.Properties.Resources.resources
+C:\Users\TaoTao' RGB FunHouse\Documents\Pandora School Work\DungeonCrawl2\DungeonCrawl1\DungeonCrawl1\obj\Debug\DungeonCrawl1.csproj.GenerateResource.Cache
+C:\Users\TaoTao' RGB FunHouse\Documents\Pandora School Work\DungeonCrawl2\DungeonCrawl1\DungeonCrawl1\obj\Debug\DungeonCrawl1.csproj.CoreCompileInputs.cache
+C:\Users\TaoTao' RGB FunHouse\Documents\Pandora School Work\DungeonCrawl2\DungeonCrawl1\DungeonCrawl1\obj\Debug\DungeonCrawl1.exe
+C:\Users\TaoTao' RGB FunHouse\Documents\Pandora School Work\DungeonCrawl2\DungeonCrawl1\DungeonCrawl1\obj\Debug\DungeonCrawl1.pdb
+E:\CSC 253\DungeonCrawl2_Bauman\DungeonCrawl2\DungeonCrawl1\DungeonCrawl1\bin\Debug\DungeonCrawl1.exe.config
+E:\CSC 253\DungeonCrawl2_Bauman\DungeonCrawl2\DungeonCrawl1\DungeonCrawl1\obj\Debug\DungeonCrawl1.exe
+E:\CSC 253\DungeonCrawl2_Bauman\DungeonCrawl2\DungeonCrawl1\DungeonCrawl1\obj\Debug\DungeonCrawl1.pdb
+E:\CSC 253\DungeonCrawl2_Bauman(Copy)\DungeonCrawl2\DungeonCrawl1\DungeonCrawl1\bin\Debug\DungeonCrawl1.exe.config
+E:\CSC 253\DungeonCrawl2_Bauman(Copy)\DungeonCrawl2\DungeonCrawl1\DungeonCrawl1\obj\Debug\DungeonCrawl1.exe
+E:\CSC 253\DungeonCrawl2_Bauman(Copy)\DungeonCrawl2\DungeonCrawl1\DungeonCrawl1\obj\Debug\DungeonCrawl1.pdb
+E:\CSC 253\DungeonCrawl2_Bauman(Copy)\DungeonCrawl2\DungeonCrawl1\DungeonCrawl1\bin\Debug\DungeonCrawl1.exe
+E:\CSC 253\DungeonCrawl2_Bauman(Copy)\DungeonCrawl2\DungeonCrawl1\DungeonCrawl1\bin\Debug\DungeonCrawl1.pdb
+E:\CSC 253\DungeonCrawl2_Bauman(Copy)\DungeonCrawl2\DungeonCrawl1\DungeonCrawl1\obj\Debug\DungeonCrawl1.csprojResolveAssemblyReference.cache
+E:\CSC 253\DungeonCrawl2_Bauman(Copy)\DungeonCrawl2\DungeonCrawl1\DungeonCrawl1\obj\Debug\DungeonCrawl1.coralCastleForm.resources
+E:\CSC 253\DungeonCrawl2_Bauman(Copy)\DungeonCrawl2\DungeonCrawl1\DungeonCrawl1\obj\Debug\DungeonCrawl1.Properties.Resources.resources
+E:\CSC 253\DungeonCrawl2_Bauman(Copy)\DungeonCrawl2\DungeonCrawl1\DungeonCrawl1\obj\Debug\DungeonCrawl1.csproj.GenerateResource.Cache
+E:\CSC 253\DungeonCrawl2_Bauman(Copy)\DungeonCrawl2\DungeonCrawl1\DungeonCrawl1\bin\Debug\DungeonCrawlClassLibrary.dll
+E:\CSC 253\DungeonCrawl2_Bauman(Copy)\DungeonCrawl2\DungeonCrawl1\DungeonCrawl1\bin\Debug\DungeonCrawlClassLibrary.pdb
+F:\CSC 253\DungeonCrawl2_Bauman(Copy)\DungeonCrawl2\DungeonCrawl1\DungeonCrawl1\bin\Debug\DungeonCrawl1.exe.config
+F:\CSC 253\DungeonCrawl2_Bauman(Copy)\DungeonCrawl2\DungeonCrawl1\DungeonCrawl1\obj\Debug\DungeonCrawl1.exe
+F:\CSC 253\DungeonCrawl2_Bauman(Copy)\DungeonCrawl2\DungeonCrawl1\DungeonCrawl1\obj\Debug\DungeonCrawl1.pdb
+F:\CSC 253\DungeonCrawl2_Bauman(Copy)\DungeonCrawl2\DungeonCrawl1\DungeonCrawl1\bin\Debug\DungeonCrawl1.exe
+F:\CSC 253\DungeonCrawl2_Bauman(Copy)\DungeonCrawl2\DungeonCrawl1\DungeonCrawl1\bin\Debug\DungeonCrawl1.pdb
+F:\CSC 253\DungeonCrawl2_Bauman(Copy)\DungeonCrawl2\DungeonCrawl1\DungeonCrawl1\bin\Debug\DungeonCrawlClassLibrary.dll
+F:\CSC 253\DungeonCrawl2_Bauman(Copy)\DungeonCrawl2\DungeonCrawl1\DungeonCrawl1\bin\Debug\mscorlib.dll
+F:\CSC 253\DungeonCrawl2_Bauman(Copy)\DungeonCrawl2\DungeonCrawl1\DungeonCrawl1\bin\Debug\System.Net.Http.dll
+F:\CSC 253\DungeonCrawl2_Bauman(Copy)\DungeonCrawl2\DungeonCrawl1\DungeonCrawl1\bin\Debug\DungeonCrawlClassLibrary.pdb
+F:\CSC 253\DungeonCrawl2_Bauman(Copy)\DungeonCrawl2\DungeonCrawl1\DungeonCrawl1\bin\Debug\System.Net.Http.xml
+F:\CSC 253\DungeonCrawl2_Bauman(Copy)\DungeonCrawl2\DungeonCrawl1\DungeonCrawl1\bin\Debug\normidna.nlp
+F:\CSC 253\DungeonCrawl2_Bauman(Copy)\DungeonCrawl2\DungeonCrawl1\DungeonCrawl1\bin\Debug\normnfc.nlp
+F:\CSC 253\DungeonCrawl2_Bauman(Copy)\DungeonCrawl2\DungeonCrawl1\DungeonCrawl1\bin\Debug\normnfd.nlp
+F:\CSC 253\DungeonCrawl2_Bauman(Copy)\DungeonCrawl2\DungeonCrawl1\DungeonCrawl1\bin\Debug\normnfkc.nlp
+F:\CSC 253\DungeonCrawl2_Bauman(Copy)\DungeonCrawl2\DungeonCrawl1\DungeonCrawl1\bin\Debug\normnfkd.nlp
+F:\CSC 253\DungeonCrawl2_Bauman(Copy)\DungeonCrawl2\DungeonCrawl1\DungeonCrawl1\obj\Debug\DungeonCrawl1.csprojResolveAssemblyReference.cache
+F:\CSC 253\DungeonCrawl2_Bauman(Copy)\DungeonCrawl2\DungeonCrawl1\DungeonCrawl1\obj\Debug\DungeonCrawl1.coralCastleForm.resources
+F:\CSC 253\DungeonCrawl2_Bauman(Copy)\DungeonCrawl2\DungeonCrawl1\DungeonCrawl1\obj\Debug\DungeonCrawl1.Properties.Resources.resources
+F:\CSC 253\DungeonCrawl2_Bauman(Copy)\DungeonCrawl2\DungeonCrawl1\DungeonCrawl1\obj\Debug\DungeonCrawl1.csproj.GenerateResource.Cache
